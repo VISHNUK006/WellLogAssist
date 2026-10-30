@@ -1,0 +1,8 @@
+streamlit>=1.36
+lasio>=0.31
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+plotly>=5.20
+matplotlib>=3.8
+pytest>=8.0
